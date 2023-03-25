@@ -19,7 +19,7 @@ In this project I  created a website with a video in the background.
 
 ### Links
 
-- Live Site URL: [Parallex Website](https://zoxabbasi.github.io/stars-video-website/)
+- Live Site URL: [Video Background Website](https://zoxabbasi.github.io/stars-video-website/)
 
 ## My process
 
